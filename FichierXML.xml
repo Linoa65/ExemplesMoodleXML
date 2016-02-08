@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+	<name>
+		<text>Question 1</text>
+	</name>
+	<questiontext format="html">
+		<text>L'hiver est-il une saison à  part entière ?<text>
+	</questiontext>
+	<answer fraction="100">
+		<text>true</text>
+		<feedback><text>Correct!</text></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>false</text>
+		<feedback><text>Ooops!</text></feedback>
+	</answer>
+</question>
+
+<question type="truefalse">
+	<name>
+		<text>Question 2</text>
+	</name>
+	<questiontext format="html">
+		<text>La gravité influe-t-elle sur le temps ?<text>
+	</questiontext>
+	<answer fraction="100">
+		<text>true</text>
+		<feedback><text>Correct!</text></feedback>
+	</answer>
+	<answer fraction="0">
+		<text>false</text>
+		<feedback><text>Ooops!</text></feedback>
+	</answer>
+</question>
